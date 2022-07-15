@@ -1,5 +1,5 @@
 # Contador-JavaScript
-
+##  Contador simples  desenvolvido com Java Script
 Esse projeto é um desafio do módulo HTML e CSS do Bootcamp Santander 💻♨️ 
 
 Para o desenvolvimento desse projeto foram utilizados:
