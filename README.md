@@ -1,5 +1,7 @@
 # Contador-JavaScript
-Esse projeto é um desafio do módulo HTML e CSS do Bootcamp Santander 💻♨️ 
+## Contador Simples com Java
+
+Esse projeto é um desafio do módulo JavaScript do Bootcamp Santander 💻♨️ 
 
 Para o desenvolvimento desse projeto foram utilizados:
  - Visual Studio Code
