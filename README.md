@@ -11,5 +11,5 @@ Para o desenvolvimento desse projeto foram utilizados:
  - Flexbox
    
 **Abaixo segue o layout do projeto:**
-![alt text](./
+![alt text](./assets/print contador.png)
 
