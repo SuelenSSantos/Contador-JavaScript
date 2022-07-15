@@ -11,5 +11,5 @@ Para o desenvolvimento desse projeto foram utilizados:
  - Flexbox
    
 **Abaixo segue o layout do projeto:**
-![](./assets/print contador.png)
+![alt text](https://github.com/SuelenSSantos/Contador-JavaScript/blob/master/assets/print%20contador.png)
 
